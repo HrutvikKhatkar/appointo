@@ -1,4 +1,4 @@
-# 🏥 Doctor Appointment App
+# 🏥 Doctor Appointment App (Appointo)
 
 A full-featured Doctor Appointment Booking application built using the **MERN Stack** (MongoDB, Express.js, React.js, Node.js). The platform enables patients to schedule appointments with doctors, provides real-time updates on appointment status, and supports online payments via **Razorpay**.
 
