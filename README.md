@@ -64,7 +64,7 @@ root/
 
 ## 🔗 Live Demo
 
-- 🌐 **Patient & Doctor Frontend**: [https://appointo-frontend.onrender.com](https://appointo-frontend.onrender.com)
+- 🌐 **Patient & Doctor Frontend**: [https://appointo-frontend.onrender.com](https://appointo-frontend-7j53.onrender.com)
 - 🛠️ **Admin Panel**: [https://appointo-admin-qxsf.onrender.com](https://appointo-admin-qxsf.onrender.com)
 - 📡 **Backend API**: [https://appointo-backend-areh.onrender.com](https://appointo-backend-areh.onrender.com)
 
