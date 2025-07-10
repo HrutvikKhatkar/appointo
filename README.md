@@ -61,14 +61,7 @@ root/
 ├── backend/ → Node.js API, MongoDB integration
 
 ---
-## Admin Credentials
 
-To log in as an admin, use the following credentials:
-
-- **Email:** `admin@example.com`
-- **Password:** `greatstack123`
-  
----
 ## 🔗 Live Demo
 
 - 🌐 **Patient & Doctor Frontend**: [https://appointo-frontend.onrender.com](https://appointo-frontend.onrender.com)
