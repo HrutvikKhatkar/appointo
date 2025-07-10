@@ -71,8 +71,4 @@ root/
 3. Configure environment variables (`.env`) in `backend` and `admin`
 4. Run frontend and backend servers
 
----
 
-## 📞 Contact
-
-For queries or collaboration, feel free to reach out.
