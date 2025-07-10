@@ -60,6 +60,15 @@ root/
 ├── frontend/ → Patient & Doctor frontend (React)
 ├── backend/ → Node.js API, MongoDB integration
 
+---
+
+## 🔗 Live Demo
+
+- 🌐 **Patient & Doctor Frontend**: [https://appointo-frontend.onrender.com](https://appointo-frontend.onrender.com)
+- 🛠️ **Admin Panel**: [https://appointo-admin-qxsf.onrender.com](https://appointo-admin-qxsf.onrender.com)
+- 📡 **Backend API**: [https://appointo-backend-areh.onrender.com](https://appointo-backend-areh.onrender.com)
+
+> Note: Backend may take a few seconds to respond on Render free tier.
 
 
 ---
